@@ -184,7 +184,7 @@ If you prefer coding in Visual Studio Code, you can compile `.mq5` files directl
 
 ## Credits
 
-**Author**: Elriz Wiraswara<br/>
+**Author**: Abdiwahab H. Abdalle<br/>
 **License**: BSD-3-Clause (Open Source)<br/>
 **Repository**: [https://github.com/daqlimt/DaqliFX_scalper_mt5](https://github.com/daqlimt/DaqliFX_scalper_mt5)
 
